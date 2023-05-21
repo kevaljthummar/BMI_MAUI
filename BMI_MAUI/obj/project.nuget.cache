@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "XTg9Xvjpe0Whh7NDSw9RcRU/jUmOZRGg2dPQ5Ffpoyxg8l/kSOhQ6/VOJn7cyWf7jf80AYZFNcnzmjdsAFEmHw==",
+  "dgSpecHash": "1Phuh5qLmv0Y0NSw1p/q0YSs8D59mFah0smF3i9IyoVBDdcAL1HXFqo1In55UB+mPVyuKbVQ3UOLw25+Iv60zA==",
   "success": true,
   "projectFilePath": "/Users/iyanpathan/Desktop/MAUI Code/BMI_MAUI/BMI_MAUI/BMI_MAUI.csproj",
   "expectedPackageFiles": [
@@ -15,6 +15,8 @@
     "/Users/iyanpathan/.nuget/packages/microsoft.extensions.options/7.0.0/microsoft.extensions.options.7.0.0.nupkg.sha512",
     "/Users/iyanpathan/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "/Users/iyanpathan/.nuget/packages/microsoft.maui.graphics/7.0.86/microsoft.maui.graphics.7.0.86.nupkg.sha512",
+    "/Users/iyanpathan/.nuget/packages/syncfusion.maui.core/21.2.5/syncfusion.maui.core.21.2.5.nupkg.sha512",
+    "/Users/iyanpathan/.nuget/packages/syncfusion.maui.gauges/21.2.5/syncfusion.maui.gauges.21.2.5.nupkg.sha512",
     "/Users/iyanpathan/.nuget/packages/xamarin.android.glide/4.13.2.2/xamarin.android.glide.4.13.2.2.nupkg.sha512",
     "/Users/iyanpathan/.nuget/packages/xamarin.android.glide.annotations/4.13.2.2/xamarin.android.glide.annotations.4.13.2.2.nupkg.sha512",
     "/Users/iyanpathan/.nuget/packages/xamarin.android.glide.disklrucache/4.13.2.2/xamarin.android.glide.disklrucache.4.13.2.2.nupkg.sha512",

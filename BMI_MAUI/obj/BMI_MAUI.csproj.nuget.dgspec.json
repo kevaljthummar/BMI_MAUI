@@ -79,6 +79,10 @@
               "version": "[7.0.86, )",
               "autoReferenced": true
             },
+            "Syncfusion.Maui.Gauges": {
+              "target": "Package",
+              "version": "[21.2.5, )"
+            },
             "Xamarin.Android.Glide": {
               "target": "Package",
               "version": "[4.13.2.2, )",
@@ -196,6 +200,10 @@
               "target": "Package",
               "version": "[7.0.86, )",
               "autoReferenced": true
+            },
+            "Syncfusion.Maui.Gauges": {
+              "target": "Package",
+              "version": "[21.2.5, )"
             }
           },
           "imports": [
@@ -259,6 +267,10 @@
               "target": "Package",
               "version": "[7.0.86, )",
               "autoReferenced": true
+            },
+            "Syncfusion.Maui.Gauges": {
+              "target": "Package",
+              "version": "[21.2.5, )"
             }
           },
           "imports": [
