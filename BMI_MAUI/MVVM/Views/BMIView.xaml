@@ -97,6 +97,38 @@
     </Frame>
     <!--#endregion-->
 
+    <!--#region Result-->
+        <Frame>
+            <VerticalStackLayout>
+                <Label FontSize="Title"
+                       HorizontalOptions="Center"
+                       Text="Result: Normal"/>
+                <gauge:SfRadialGauge>
+                    <gauge:SfRadialGauge.Axes>
+                        <gauge:RadialAxis Maximum="50"
+                                          Minimum="0"
+                                          ShowAxisLine="False"
+                                          ShowLabels="False"
+                                          ShowTicks="False">
+                        <gauge:RadialAxis.Ranges>
+                            <gauge:RadialRange
+                                EndValue="16"
+                                EndWidth="0.65"
+                                Fill="#282E5A"
+                                StartValue="0"
+                                StartWidth="0.65"
+                                WidthUnit="Factor"/>
+
+                        </gauge:RadialAxis.Ranges>
+                        </gauge:RadialAxis>
+                    </gauge:SfRadialGauge.Axes>
+
+                </gauge:SfRadialGauge>
+            </VerticalStackLayout>
+
+        </Frame>
+    <!--#endregion-->
+
         </VerticalStackLayout>
     </ScrollView>
 </ContentPage>
