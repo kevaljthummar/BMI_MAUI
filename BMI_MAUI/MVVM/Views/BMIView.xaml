@@ -38,7 +38,7 @@
                                                 Value="{Binding BMI.Height}">
                         <gauge:LinearContentPointer.Content>
                             <Grid HeightRequest="25" WidthRequest="50">
-                                <RoundRectangle CornerRadius="5" Fill="ff0074E3"/>
+                                <RoundRectangle CornerRadius="5" Fill="#ff0074E3"/>
                                 <Label HorizontalOptions="Center"
                                        Text="{Binding Source={x:Reference HeightPointer},
                                                 Path=Value, StringFormat='{0:0}'}"
@@ -77,7 +77,7 @@
                                                 Value="{Binding BMI.Weight}">
                         <gauge:LinearContentPointer.Content>
                             <Grid HeightRequest="25" WidthRequest="50">
-                                <RoundRectangle CornerRadius="5" Fill="ff0074E3"/>
+                                <RoundRectangle CornerRadius="5" Fill="#ff0074E3"/>
                                 <Label HorizontalOptions="Center"
                                        Text="{Binding Source={x:Reference WeightPointer},
                                                 Path=Value, StringFormat='{0:0}'}"

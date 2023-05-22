@@ -6,8 +6,6 @@ namespace BMI_MAUI.MVVM.Models
     [AddINotifyPropertyChangedInterface]
 	public class BMI
 	{
-        private float result;
-
         public float Height { get; set; }
 		public float Weight { get; set; }
         public float Result {
