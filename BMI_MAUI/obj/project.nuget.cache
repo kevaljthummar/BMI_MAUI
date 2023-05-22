@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "1Phuh5qLmv0Y0NSw1p/q0YSs8D59mFah0smF3i9IyoVBDdcAL1HXFqo1In55UB+mPVyuKbVQ3UOLw25+Iv60zA==",
+  "dgSpecHash": "8XGffXmSe1hH76wSmLVgZokVVjyeNvlJT7DcSIWj/ioPFajD5WVsZNEeO/as42+HCt2Rn58ruNQZs9twO2sZTg==",
   "success": true,
   "projectFilePath": "/Users/iyanpathan/Desktop/MAUI Code/BMI_MAUI/BMI_MAUI/BMI_MAUI.csproj",
   "expectedPackageFiles": [
+    "/Users/iyanpathan/.nuget/packages/fody/6.6.4/fody.6.6.4.nupkg.sha512",
     "/Users/iyanpathan/.nuget/packages/googlegson/2.9.1.1/googlegson.2.9.1.1.nupkg.sha512",
     "/Users/iyanpathan/.nuget/packages/microsoft.extensions.configuration/7.0.0/microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "/Users/iyanpathan/.nuget/packages/microsoft.extensions.configuration.abstractions/7.0.0/microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
@@ -15,6 +16,7 @@
     "/Users/iyanpathan/.nuget/packages/microsoft.extensions.options/7.0.0/microsoft.extensions.options.7.0.0.nupkg.sha512",
     "/Users/iyanpathan/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "/Users/iyanpathan/.nuget/packages/microsoft.maui.graphics/7.0.86/microsoft.maui.graphics.7.0.86.nupkg.sha512",
+    "/Users/iyanpathan/.nuget/packages/propertychanged.fody/4.1.0/propertychanged.fody.4.1.0.nupkg.sha512",
     "/Users/iyanpathan/.nuget/packages/syncfusion.maui.core/21.2.5/syncfusion.maui.core.21.2.5.nupkg.sha512",
     "/Users/iyanpathan/.nuget/packages/syncfusion.maui.gauges/21.2.5/syncfusion.maui.gauges.21.2.5.nupkg.sha512",
     "/Users/iyanpathan/.nuget/packages/xamarin.android.glide/4.13.2.2/xamarin.android.glide.4.13.2.2.nupkg.sha512",
